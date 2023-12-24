@@ -1,0 +1,11 @@
+current directory: /Users/fujiiryousuke/rails_workspace/runteq/genba_rails/taskleaf/taskleaf/vendor/bundle/ruby/2.5.0/gems/io-wait-0.3.1/ext/io/wait
+/Users/fujiiryousuke/.rbenv/versions/2.5.1/bin/ruby -I /Users/fujiiryousuke/.rbenv/versions/2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20231224-10350-12atlff.rb extconf.rb
+
+current directory: /Users/fujiiryousuke/rails_workspace/runteq/genba_rails/taskleaf/taskleaf/vendor/bundle/ruby/2.5.0/gems/io-wait-0.3.1/ext/io/wait
+make "DESTDIR=" clean
+
+current directory: /Users/fujiiryousuke/rails_workspace/runteq/genba_rails/taskleaf/taskleaf/vendor/bundle/ruby/2.5.0/gems/io-wait-0.3.1/ext/io/wait
+make "DESTDIR="
+
+current directory: /Users/fujiiryousuke/rails_workspace/runteq/genba_rails/taskleaf/taskleaf/vendor/bundle/ruby/2.5.0/gems/io-wait-0.3.1/ext/io/wait
+make "DESTDIR=" install
